@@ -2,7 +2,7 @@
 
 This repository is part of the [Clarity](https://github.com/vmware/clarity) project, and its purpose is to store the static assets that we provide for consumers of Clarity.
 
-You are welcome to download the files from here, or you can find them listed our website https://clarity.design as well.
+You are welcome to download the files from here, or you can find them listed our website http://clarity.design as well.
 
 ### Contents
 
